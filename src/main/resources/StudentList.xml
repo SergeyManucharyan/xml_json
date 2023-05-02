@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<studentList>
+    <studentList>
+        <firstName>Dinkar</firstName>
+        <lastName>Kad</lastName>
+        <nickName>Dinkar</nickName>
+    </studentList>
+    <studentList>
+        <firstName>Vaneet</firstName>
+        <lastName>Gupta</lastName>
+        <nickName>Vinni</nickName>
+    </studentList>
+    <studentList>
+        <firstName>Jasvir</firstName>
+        <lastName>Singh</lastName>
+        <nickName>Jazz</nickName>
+    </studentList>
+</studentList>
